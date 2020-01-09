@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">  
+	
+<channel>  
+    <title>El tiempo</title>  
+    <link>https://www.tiempo.es/</link>  
+    <description>El tiempo en algunas provincias españolas</description>
+    <language>es</language>   
+
+    <item>  
+        <title>El tiempo en Sevilla</title>  
+        <link>https://www.eltiempo.es/en-provincia-sevilla</link>
+        <description>Avisos metereologicos</description>  
+    </item>
+    
+    <item>  
+        <title>El tiempo en Cadiz</title>  
+        <link>https://www.eltiempo.es/en-provincia-cadiz</link>  
+        <description>Avisos metereologicos</description>  
+    </item>
+ </channel> 
+</rss>
